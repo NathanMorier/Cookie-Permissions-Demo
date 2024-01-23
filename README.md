@@ -6,7 +6,7 @@
 
 <h3>A Few things to note</h3>
 <ul>
-<li>The approximate amount of code written by me amongst all of these files is about 120 lines, with additional supporting code that would allow it to work if placed in a demo setting. All such code labelled accordingly.</li>
+<li>The approximate amount of code written by me amongst all of these files is about 120 lines, with additional supporting code that would allow it to work if placed in a demo setting. All such code is labelled accordingly.</li>
 <li>This repo includes a styles.css and a styles.scss file, whichever file type is most appropriate can be chosen for any given project.</li>
 <li>The index.php contains code that pertains to the WordPress WPML plugin, if the plugin isn't being used in the project, that code can be removed.</li>
 </ul>
