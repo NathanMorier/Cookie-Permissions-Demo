@@ -12,7 +12,7 @@
 </ul>
 
 <h3>Usage</h3>
-<p>Comments within the code has labelled everything noteworthy, it should clarify how to use it, or if there's portions that need to be removed as per the needs of a project.</p>
+<p>I've labelled everything noteworthy in the code comments, they should clarify how to use the code, as well as indicate if there's portions that can be removed if they're not necissary for the project.</p>
 
 <h3>Demo</h3>
 <p>A live demo of this Cookie Permissions Demo can be found here on replit: <a href="https://f9135ce0-30f3-4f35-a633-8af6494895a5-00-3mwt293nqy43r.kirk.replit.dev/" target="_blank">Demo</a></p>
