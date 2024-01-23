@@ -1,0 +1,130 @@
+body {
+  background-color: #fff;
+  color: #333;
+  font: 400 16px/1.6 "open-sans", sans-serif;
+  max-width: 1920px;
+  margin: 0 auto;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+body a {
+  color: #42817a;
+}
+
+.cookie_banner {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  z-index: 90;
+}
+
+.cookie_banner > div {
+  max-width: 1160px;
+  margin: 0 auto;
+  background: #eaf1f0;
+  padding: 15px;
+  box-shadow: 0 0 3px rgba(0, 0, 0, 0.2);
+}
+
+@media (min-width: 48em) {
+  .cookie_banner > div {
+    box-shadow: 0 0 8px rgba(0, 0, 0, 0.2);
+  }
+}
+
+@media (min-width: 64em) {
+  .cookie_banner > div {
+    display: flex;
+    padding: 20px;
+  }
+}
+
+.cookie_banner p {
+  margin: 0;
+  font-size: 14px;
+}
+
+@media (min-width: 64em) {
+  .cookie_banner p {
+    flex: 1;
+  }
+}
+
+.cookie_banner ul {
+  margin: 30px 0 0;
+  font-size: 14px;
+}
+
+.cookie_banner ul.list-unstyled {
+  padding-left: 0;
+  list-style: none;
+}
+
+@media (min-width: 48em) {
+  .cookie_banner ul {
+    display: flex;
+    align-items: center;
+  }
+}
+
+@media (min-width: 64em) {
+  .cookie_banner ul {
+    margin: 0 0 0 40px;
+  }
+}
+
+.cookie_banner ul li {
+  margin: 14px 0 0 20px;
+  display: inline-block;
+}
+
+.cookie_banner ul li:first-child {
+  margin: 0!important;
+}
+
+@media (min-width: 48em) {
+  .cookie_banner ul li {
+    margin: 0 0 0 20px;
+  }
+}
+
+@media (max-width: 47.9375em) {
+  .cookie_banner ul li {
+    display: block;
+    margin-left: 0;
+  }
+}
+
+
+
+/*---- In case site doesn't have bootstrap, include the following ----*/
+.btn {
+    display: inline-block;
+    height: 38px;
+    padding: 0 30px;
+    color: #555;
+    text-align: center;
+    font-size: .9em;
+    font-weight: 400;
+    line-height: 38px;
+    letter-spacing: .01em;
+    text-decoration: none;
+    white-space: nowrap;
+    background-color: rgba(0,0,0,0);
+    border-radius: 2px;
+    border: 1px solid #bbb;
+    cursor: pointer;
+    box-sizing: border-box;
+}
+
+.btn-teal {
+  background: #42817a;
+  color: #fff;
+}
+
+.btn-teal:hover {
+  background: #1a534c;
+  color: #fff;
+}
