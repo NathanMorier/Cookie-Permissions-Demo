@@ -15,5 +15,5 @@
 <p>I've labelled everything noteworthy in the code comments, they should clarify how to use the code, as well as indicate if there's portions that can be removed if they're not necissary for the project.</p>
 
 <h3>Demo</h3>
-<p>A live demo of this Cookie Permissions Demo can be found here on replit: <a href="https://replit.com/@nathanrmorier/Cookie-Permissions#index.php" target="_blank">Demo</a></p>
-<p>A demo of this can also be found on the live site of <a href="https://www.hellobc.com" target="_blank">hellobc.com</a>, <em>however it should be noted</em> that other contributors to the site have made changes to the component since I had created it, and it will no longer be an exact match.</p>
+
+<p>A demo of this can be found on the live site of <a href="https://www.hellobc.com" target="_blank">hellobc.com</a>, <em>however it should be noted</em> that other contributors to the site have made changes to the component since I had created it, and it will no longer be an exact match.</p>
